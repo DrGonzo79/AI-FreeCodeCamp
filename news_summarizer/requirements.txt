@@ -1,2 +1,4 @@
 python_dotenv
 openai
+# eMudhra certificate distrust: keep the bundled trust store patched.
+certifi>=2026.10.19
